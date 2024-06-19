@@ -3,7 +3,7 @@ This project is a simple To-Do List application with a front end built using HTM
 
 
 ## Usage
-### dd a To-Do Item:
+### Add a To-Do Item:
 
 - Enter a new to-do item in the input field.
 - Click the "Add To-Do" button to add the item to the list.
